@@ -1,0 +1,5 @@
+*.md
+processed/
+ChatGPT Summary Index.md
+__pycache__/
+*.log

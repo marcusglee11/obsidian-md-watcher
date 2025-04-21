@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+obsidian_md_watcher.egg-info/PKG-INFO
+obsidian_md_watcher.egg-info/SOURCES.txt
+obsidian_md_watcher.egg-info/dependency_links.txt
+obsidian_md_watcher.egg-info/requires.txt
+obsidian_md_watcher.egg-info/top_level.txt
+watcher/__init__.py
+watcher/config.py
+watcher/trigger.py
+watcher/utils.py
+watcher/vault_committer.py

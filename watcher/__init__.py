@@ -1,1 +1,1 @@
-# Obsidian Markdown Watcher package
+# Package initializer
