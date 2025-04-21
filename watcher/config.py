@@ -1,0 +1,5 @@
+WATCH_FOLDER = "C:/Users/YOUR_USERNAME/Downloads"
+VAULT_FOLDER = "C:/Users/YOUR_USERNAME/Obsidian/YourVault"
+ARCHIVE_FOLDER = WATCH_FOLDER + "/processed"
+INDEX_NOTE = VAULT_FOLDER + "/ChatGPT Summary Index.md"
+LOG_FILE = VAULT_FOLDER + "/chatgpt_watcher.log"

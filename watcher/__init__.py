@@ -1,0 +1,1 @@
+# Obsidian Markdown Watcher package
